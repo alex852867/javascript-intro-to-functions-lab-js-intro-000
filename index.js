@@ -19,4 +19,6 @@ if (string ===string.toLowerCase())
 return "I can\'t hear you!"
 else if (string===string.toUpperCase())
 return "YES INDEED"
+else (string===I love you, Grandma)
+retun "I love you, too"
 }
